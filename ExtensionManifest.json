@@ -2,7 +2,7 @@
   "type": 1,
   "name": "Macro Deck colorful generic icons",
   "author": "Macro Deck",
-  "repository": "",
+  "repository": "https://github.com/SuchByte/Macro-Deck-Colorful-Generic-Icons",
   "packageId": "MacroDeck.MacroDeckcolorfulgenericicons",
   "version": "1.0.2",
   "target-plugin-api-version": 32,

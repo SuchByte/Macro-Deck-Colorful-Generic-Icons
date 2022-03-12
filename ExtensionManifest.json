@@ -1,0 +1,10 @@
+{
+  "type": 1,
+  "name": "Macro Deck colorful generic icons",
+  "author": "Macro Deck",
+  "repository": "",
+  "packageId": "MacroDeck.MacroDeckcolorfulgenericicons",
+  "version": "1.0.2",
+  "target-plugin-api-version": 32,
+  "dll": ""
+}
